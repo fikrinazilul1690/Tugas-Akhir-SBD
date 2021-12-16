@@ -1,0 +1,14 @@
+body{
+    background-color: #DDDDDD;
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.login{
+    margin: auto;
+}
